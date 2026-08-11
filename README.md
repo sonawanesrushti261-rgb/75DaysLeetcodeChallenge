@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sonawanesrushti261-rgb/75DaysLeetcodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/sonawanesrushti261-rgb/75DaysLeetcodeChallenge/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/sonawanesrushti261-rgb/75DaysLeetcodeChallenge/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/sonawanesrushti261-rgb/75DaysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/sonawanesrushti261-rgb/75DaysLeetcodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sonawanesrushti261-rgb/75DaysLeetcodeChallenge/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sonawanesrushti261-rgb/75DaysLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/sonawanesrushti261-rgb/75DaysLeetcodeChallenge/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/sonawanesrushti261-rgb/75DaysLeetcodeChallenge/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/sonawanesrushti261-rgb/75DaysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sonawanesrushti261-rgb/75DaysLeetcodeChallenge/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sonawanesrushti261-rgb/75DaysLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/sonawanesrushti261-rgb/75DaysLeetcodeChallenge/tree/master/0645-set-mismatch) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sonawanesrushti261-rgb/75DaysLeetcodeChallenge/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/sonawanesrushti261-rgb/75DaysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sonawanesrushti261-rgb/75DaysLeetcodeChallenge/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/sonawanesrushti261-rgb/75DaysLeetcodeChallenge/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
