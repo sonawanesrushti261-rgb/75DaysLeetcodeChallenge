@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sonawanesrushti261-rgb/75DaysLeetcodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/sonawanesrushti261-rgb/75DaysLeetcodeChallenge/tree/master/0645-set-mismatch) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sonawanesrushti261-rgb/75DaysLeetcodeChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sonawanesrushti261-rgb/75DaysLeetcodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sonawanesrushti261-rgb/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sonawanesrushti261-rgb/75DaysLeetcodeChallenge/tree/master/0344-reverse-string) |
+## Math
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sonawanesrushti261-rgb/75DaysLeetcodeChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
