@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/sonawanesrushti261-rgb/75DaysLeetcodeChallenge/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sonawanesrushti261-rgb/75DaysLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/sonawanesrushti261-rgb/75DaysLeetcodeChallenge/tree/master/0645-set-mismatch) |
+| [1480-running-sum-of-1d-array](https://github.com/sonawanesrushti261-rgb/75DaysLeetcodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sonawanesrushti261-rgb/75DaysLeetcodeChallenge/tree/master/0053-maximum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/sonawanesrushti261-rgb/75DaysLeetcodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
