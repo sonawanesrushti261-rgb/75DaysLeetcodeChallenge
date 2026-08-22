@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/sonawanesrushti261-rgb/75DaysLeetcodeChallenge/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sonawanesrushti261-rgb/75DaysLeetcodeChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Trie
 |  |
@@ -124,8 +125,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sonawanesrushti261-rgb/75DaysLeetcodeChallenge/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/sonawanesrushti261-rgb/75DaysLeetcodeChallenge/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/sonawanesrushti261-rgb/75DaysLeetcodeChallenge/tree/master/1480-running-sum-of-1d-array) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sonawanesrushti261-rgb/75DaysLeetcodeChallenge/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sonawanesrushti261-rgb/75DaysLeetcodeChallenge/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
