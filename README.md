@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/sonawanesrushti261-rgb/75DaysLeetcodeChallenge/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sonawanesrushti261-rgb/75DaysLeetcodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/sonawanesrushti261-rgb/75DaysLeetcodeChallenge/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/sonawanesrushti261-rgb/75DaysLeetcodeChallenge/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/sonawanesrushti261-rgb/75DaysLeetcodeChallenge/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sonawanesrushti261-rgb/75DaysLeetcodeChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Trie
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sonawanesrushti261-rgb/75DaysLeetcodeChallenge/tree/master/0020-valid-parentheses) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sonawanesrushti261-rgb/75DaysLeetcodeChallenge/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
